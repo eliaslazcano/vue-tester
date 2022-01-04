@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Realizar teste unitário na aplicação
+```
+npm run test:unit
+```
+
 #### Configurando a api Fake
 
 Instalar o json-server globalmente:
@@ -23,4 +28,3 @@ Iniciando a api fake de leilões;
 ```
 json-server --watch db.json
 ```
-
